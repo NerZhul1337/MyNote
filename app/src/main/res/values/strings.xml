@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="RegHeaderXML">Регистрация</string>
+    <string name="RegEmailHint">Введите ваш email</string>
+    <string name="RegPassHint">Введите ваш пароль</string>
+    <string name="RegXMLBtnReg">Регистрация</string>
+    <string name="RegXMLBtnLog">Уже зарегистрированы? Войдите в аккаунт!</string>
+    <string name="LogHeaderXML">Авторизация</string>
+    <string name="LogXMLBtnLog">Авторизоваться</string>
+    <string name="InsNoteTextHint">Введите текст заметки</string>
+    <string name="SaveBtn">Сохранить</string>
+    <string name="DeleteBtn">Удалить</string>
+    <string name="AddBtn">Добавить</string>
+    <string name="NeedHelpBtn">Нужна помощь?</string>
+</resources>
